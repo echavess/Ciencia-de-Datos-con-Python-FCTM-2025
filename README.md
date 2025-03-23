@@ -1,7 +1,7 @@
 # Curso 3: Ciencia de datos y generación de figuras para publicación científica con Python
 ## II Congreso de Ciencias de la Tierra y el Mar, FCTM, Universidad Nacional 2025
 
-<img src="figura_cientifica.png" alt="Visualización del curso" width="700"/>
+<img src="Cienciadedatos.png" alt="Visualización del curso" width="700"/>
 
 Este repositorio contiene una serie de notebooks desarrollados para un curso intensivo de 8 horas que cubre los fundamentos de Python, manipulación de datos con Pandas y NumPy, limpieza de datos, visualización científica con Matplotlib y Seaborn, exportación de figuras en alta resolución y preparación de informes reproducibles.
 
